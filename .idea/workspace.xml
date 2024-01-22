@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0498c34f-df7a-4dc0-9ff9-4a813a77e8c3" name="更改" comment="leetcode" />
+    <list default="true" id="0498c34f-df7a-4dc0-9ff9-4a813a77e8c3" name="更改" comment="leetcode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet/huadongchuangkou/leetcode_567.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leet/huadongchuangkou/leetcode_567.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2bADWxeSokO7Ne5zCpfwU1R9vdQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,12 +38,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,7 +60,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705649026367</updated>
-      <workItem from="1705649027383" duration="1831000" />
+      <workItem from="1705649027383" duration="4307000" />
+      <workItem from="1705731507554" duration="82000" />
+      <workItem from="1705889351626" duration="5328000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <option name="closed" value="true" />
@@ -71,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705654895246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1705655264802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705655264802</updated>
+    </task>
+    <task id="LOCAL-00004" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1705893875625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705893875625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,16 +116,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode" />
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leet/leetcode_560.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
