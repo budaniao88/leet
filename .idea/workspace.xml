@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0498c34f-df7a-4dc0-9ff9-4a813a77e8c3" name="更改" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/hash/leetcode_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/hash/leetcode_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/huadongchuangkou/leetcode_438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/matrix/leetcode_73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/oridnaryarr/leetcode_189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/oridnaryarr/leetcode_238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/oridnaryarr/leetcode_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/oridnaryarr/leetcode_53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/oridnaryarr/leetcode_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_146_LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet/ListNode/leetcode_138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_138.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +73,13 @@
       <workItem from="1706011388825" duration="5000" />
       <workItem from="1706066808334" duration="8224000" />
       <workItem from="1706151327438" duration="7075000" />
-      <workItem from="1706193255111" duration="8641000" />
+      <workItem from="1706193255111" duration="10967000" />
+      <workItem from="1706325531270" duration="74000" />
+      <workItem from="1706336413326" duration="772000" />
+      <workItem from="1706347615904" duration="62000" />
+      <workItem from="1706419411164" duration="1532000" />
+      <workItem from="1706528399252" duration="3064000" />
+      <workItem from="1706537172084" duration="4867000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <option name="closed" value="true" />
@@ -127,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705896153597</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1706240095374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706240095374</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
