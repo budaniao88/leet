@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0498c34f-df7a-4dc0-9ff9-4a813a77e8c3" name="更改" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_146_LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leectode_102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leetcode_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leetcode_104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leetcode_108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leetcode_226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leetcode_543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/binarytree/leetcode_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_1049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/dp/leetcode_70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leet/ListNode/leetcode_138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leet/ListNode/leetcode_138.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +69,40 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="应用程序.leetcode_70">
+    <configuration name="leetcode_509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet.dp.leetcode_509" />
+      <module name="algrithim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet.dp.leetcode_70" />
+      <module name="algrithim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.leetcode_70" />
+        <item itemvalue="应用程序.leetcode_509" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -79,7 +126,12 @@
       <workItem from="1706347615904" duration="62000" />
       <workItem from="1706419411164" duration="1532000" />
       <workItem from="1706528399252" duration="3064000" />
-      <workItem from="1706537172084" duration="4867000" />
+      <workItem from="1706537172084" duration="6084000" />
+      <workItem from="1706581506692" duration="8897000" />
+      <workItem from="1706703096394" duration="5880000" />
+      <workItem from="1706712159797" duration="6104000" />
+      <workItem from="1706764400723" duration="2705000" />
+      <workItem from="1706775908704" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <option name="closed" value="true" />
@@ -129,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706240095374</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1706542522919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706542522919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
