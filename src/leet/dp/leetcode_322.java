@@ -38,6 +38,17 @@ package leet.dp;
 
 public class leetcode_322 {
     public int coinChange(int[] coins, int amount) {
-        return 0;
+        int[] dp = new int[amount + 1];
+        for (int i : dp) {
+            i = Integer.MAX_VALUE;
+        }
+        dp[0] = 0;
+        for (int j = 0; j <= amount; j++) {
+            for (int i = 0; i < coins.length; i++) {
+                if (j - coins[i] !=Integer.MAX_VALUE )
+                    dp[j] += Math.min(dp[j],dp[j - coins[i]+1]);
+            }
+        }
+        return  dp[amount]==Integer.MAX_VALUE?-1:dp[amount];
     }
 }
